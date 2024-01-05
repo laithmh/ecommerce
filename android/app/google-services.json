@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "664081203712",
+    "project_id": "ecommerce-add12",
+    "storage_bucket": "ecommerce-add12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:664081203712:android:0d18224c4919cf7eb28ee5",
+        "android_client_info": {
+          "package_name": "com.laith.ecommerce"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLHJX1iByVIq28AO-VivVMY4h0-Q1WFoo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
