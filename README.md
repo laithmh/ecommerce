@@ -1,6 +1,6 @@
 # ecommerce
 
-A new Flutter ecommerce app
+A new Flutter ecommerce app build  with Getx state management and mvc architecture 
 
 ## Getting Started
 
